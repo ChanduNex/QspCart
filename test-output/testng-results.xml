@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-07-29T10:24:52 IST" name="Default suite" finished-at="2023-07-29T10:24:52 IST" duration-ms="125">
+  <suite started-at="2023-07-29T10:31:26 IST" name="Default suite" finished-at="2023-07-29T10:31:26 IST" duration-ms="101">
     <groups>
     </groups>
-    <test started-at="2023-07-29T10:24:52 IST" name="Default test" finished-at="2023-07-29T10:24:52 IST" duration-ms="125">
-      <class name="practice.AddTocart">
-        <test-method signature="adsdtocart()[pri:0, instance:practice.AddTocart@55182842]" started-at="2023-07-29T10:24:52 IST" name="adsdtocart" finished-at="2023-07-29T10:24:52 IST" duration-ms="23" status="PASS">
+    <test started-at="2023-07-29T10:31:26 IST" name="Default test" finished-at="2023-07-29T10:31:26 IST" duration-ms="101">
+      <class name="practice.AddTocartTest">
+        <test-method signature="adsdtocart()[pri:0, instance:practice.AddTocartTest@55182842]" started-at="2023-07-29T10:31:26 IST" name="adsdtocart" finished-at="2023-07-29T10:31:26 IST" duration-ms="14" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- adsdtocart -->
-        <test-method signature="removeFromcart()[pri:0, instance:practice.AddTocart@55182842]" started-at="2023-07-29T10:24:52 IST" name="removeFromcart" finished-at="2023-07-29T10:24:52 IST" duration-ms="4" status="PASS">
+        <test-method signature="removeFromcart()[pri:0, instance:practice.AddTocartTest@55182842]" started-at="2023-07-29T10:31:26 IST" name="removeFromcart" finished-at="2023-07-29T10:31:26 IST" duration-ms="4" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- removeFromcart -->
-      </class> <!-- practice.AddTocart -->
+      </class> <!-- practice.AddTocartTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
