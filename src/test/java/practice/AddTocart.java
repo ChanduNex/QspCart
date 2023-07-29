@@ -8,5 +8,9 @@ public class AddTocart {
 		System.out.println("cart ids aded");
 	}
 	
+	@Test
+	public void removeFromcart() {
+		System.out.println("cart is removed");
+	}
 
 }
